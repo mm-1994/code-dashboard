@@ -2,7 +2,7 @@ import axios from "axios";
 import { CUSTOMERS } from "../types/customers";
 import { globalErrorHandler } from "./api-helpers";
 
-const baseUrlNew = process.env.REACT_APP_SERVER_URL + "api-v2/";
+var baseUrlNew = process.env.REACT_APP_SERVER_URL + "api-v2/";
 
 export function setAuthToken(token) {
   if (token) {
