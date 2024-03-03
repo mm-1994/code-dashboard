@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d01a6ebe.css",
+    "main.js": "/static/js/main.de6ad5a0.js",
+    "static/js/866.332039c4.chunk.js": "/static/js/866.332039c4.chunk.js",
+    "static/js/498.28f07bf5.chunk.js": "/static/js/498.28f07bf5.chunk.js",
+    "static/js/703.8194dee1.chunk.js": "/static/js/703.8194dee1.chunk.js",
+    "static/js/513.a1e33828.chunk.js": "/static/js/513.a1e33828.chunk.js",
+    "static/js/787.ec506840.chunk.js": "/static/js/787.ec506840.chunk.js",
+    "static/media/container.png": "/static/media/container.33953b8db4de8176e9c4.png",
+    "static/media/cycollector.png": "/static/media/cycollector.a927dc7cf72407ea582c.png",
+    "static/media/login_background.webp": "/static/media/login_background.8bcd289e28b965b16a83.webp",
+    "static/media/bosch.svg": "/static/media/bosch.3c2e5ac45f76f1a0f3b0dcceb38afe63.svg",
+    "static/media/logo-light.png": "/static/media/logo-light.8309e776eebf0efcd107.png",
+    "static/media/no data.png": "/static/media/no data.c022cad6fa7bf9af3a56.png",
+    "static/media/cytag.png": "/static/media/cytag.194f88b9f29943b60980.png",
+    "static/media/cytag.webp": "/static/media/cytag.f7bf170d5e66543e3d80.webp",
+    "static/media/cycollector.webp": "/static/media/cycollector.aacdb16c41dd53dd2bd3.webp",
+    "static/media/vessle.png": "/static/media/vessle.ea24daa1c0fd59115634.png",
+    "static/media/warning.png": "/static/media/warning.8b0e1a08e27f3915fe59.png",
+    "static/media/map.png": "/static/media/map.d421c378f26c26c54a15.png",
+    "static/media/anchor.png": "/static/media/anchor.a07bc48c51285062e398.png",
+    "static/media/logo-sm-dark.png": "/static/media/logo-sm-dark.d69d66d8b1789f5fb10e.png",
+    "static/media/logo-sm-light.png": "/static/media/logo-sm-light.6e6a7a5a96d7fdc71c9f.png",
+    "static/media/crane.png": "/static/media/crane.0a9c803075846cb27198.png",
+    "static/media/excel.png": "/static/media/excel.b9db6da0c70e43072a7f.png",
+    "static/media/bosch.md": "/static/media/bosch.c925dbd03d07948749a6.md",
+    "static/media/Abstract_LinkedIn_Background.webp": "/static/media/Abstract_LinkedIn_Background.a1be8c7b400c50ec38d2.webp",
+    "index.html": "/index.html",
+    "main.d01a6ebe.css.map": "/static/css/main.d01a6ebe.css.map",
+    "main.de6ad5a0.js.map": "/static/js/main.de6ad5a0.js.map",
+    "866.332039c4.chunk.js.map": "/static/js/866.332039c4.chunk.js.map",
+    "498.28f07bf5.chunk.js.map": "/static/js/498.28f07bf5.chunk.js.map",
+    "703.8194dee1.chunk.js.map": "/static/js/703.8194dee1.chunk.js.map",
+    "513.a1e33828.chunk.js.map": "/static/js/513.a1e33828.chunk.js.map",
+    "787.ec506840.chunk.js.map": "/static/js/787.ec506840.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d01a6ebe.css",
+    "static/js/main.de6ad5a0.js"
+  ]
+}

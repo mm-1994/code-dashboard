@@ -1,0 +1,18 @@
+.app-container {
+    z-index: 1;
+    position: relative;
+    margin-inline-start: 60px;
+    margin-bottom: 5px;
+    min-width: calc(100% - 60px);
+}
+
+.main-app {
+    margin: 4px;
+}
+
+@media only screen and (max-width: 800px) {
+    .app-container {
+        margin: 0;
+        min-width: 100%;
+    }
+}

@@ -1,0 +1,13 @@
+.tableBgcolor{
+    animation: changeBackgroundColor 4s ease-in-out;
+    animation-fill-mode: initial;
+}
+
+@keyframes changeBackgroundColor {
+    0% {
+    background-color: #AB9AFE;
+    }
+    100% {
+    background-color: white;
+    }
+}
